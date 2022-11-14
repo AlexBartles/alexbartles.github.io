@@ -1,3 +1,7 @@
-# alexbartles.github.io
+Things im working on:
 
--Working on a Minecraft 1.8.9 client called LumaSense Reborn (Luma Reborn for short).
+-LumaSense Reborn/Luma Reborn
+-This website
+
+Whats Luma Reborn I hear you asking?
+Well it is a Minecraft 1.8.9 client.
