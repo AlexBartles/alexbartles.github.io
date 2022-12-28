@@ -1,7 +1,7 @@
-Things im working on:
+My Projects:
 
--LumaSense Reborn/Luma Reborn
--This website
+7Clicker (REMAKE):
 
-Whats Luma Reborn I hear you asking?
-Well it is a Minecraft 1.8.9 client.
+Info: Remake of 7Clicker by Ruffian (base)
+
+Download: https://github.com/AlexBartles/7Clicker/releases/tag/ClickerFINAL
