@@ -11,3 +11,9 @@ Luma Reborn:
 Info: Luma remade with QOL updates and a lot of feature updates!
 
 Download: (soon™)
+
+pine. AI:
+
+Info: An all-new awesome AI released in Discord!
+
+Download/Discord: https://dsc.gg/pine-ai
