@@ -1,3 +1,13 @@
+About Me:
+
+🌱 I’m currently learning Java.
+
+📫 How to reach me: _alexbartles on Discord.
+
+😄 Pronouns: He/Him.
+
+⚡ Fun fact: CPC (Club Penguin Cheese) will be releasing very shortly! Join today at https://dsc.gg/club-penguin-cheese
+
 My Projects:
 
 7Clicker (REMAKE):
